@@ -1,0 +1,10 @@
+hai this iss file handling
+
+                 
+                 there are 4 modes
+1.write
+2.read
+3.append
+4.exclusive
+hai this is nothing
+this is append mode
